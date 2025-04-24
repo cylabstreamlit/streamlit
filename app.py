@@ -9,6 +9,9 @@ from sklearn.metrics import accuracy_score            # 🕏  Metric
 
 # ── 1. Dataset Overview ──
 st.markdown("""
+# Streamlit Demo app
+This Streamlit app was created to showcase some of Streamlit's features. Find out more on the associated blog post and dive into the code on the [repo](https://github.com/cylabstreamlit/streamlit). 
+
 ### 🐧 About the Dataset
 The **Palmer Penguins** dataset is a popular alternative to the Iris dataset for beginner ML tasks. It records measurements for three penguin species (*Adélie*, *Gentoo*, and *Chinstrap*) from three islands in Antarctica.
 
